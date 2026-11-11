@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I’m Umeh Victor Chidera 👋
 
-<!--
-**Dheraa/Dheraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI/ML Engineer | Python Developer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I’m a Biology Education graduate transitioning into technology, with a growing focus on Artificial Intelligence, Machine Learning, and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about using data and intelligent systems to solve practical problems. I enjoy exploring datasets, developing predictive models, and continuously improving my technical skills through hands-on projects.
+
+🛠️ Technical Skills
+
+* Programming: Python
+* Data Analysis: NumPy, Pandas
+* Data Visualization: Matplotlib
+* Machine Learning: Scikit-learn
+* Development Tools: Git, GitHub, VS Code, Jupyter Notebook, Google Colab
+
+🚀 Featured Projects
+
+1. Laptop Price Prediction
+
+* Machine learning project focused on predicting laptop prices using regression techniques.
+
+2. Loan Repayment Prediction
+
+* Classification project exploring machine learning approaches to loan repayment prediction.
+
+Project Repository: Machine Learning Regression & Classification
+
+📚 Currently Learning
+
+* Machine Learning Engineering
+* Predictive Modelling
+* Data Preprocessing and Feature Engineering
+* Model Evaluation and Optimisation
+* Practical AI Applications
+
+🎯 My Interests
+
+Artificial Intelligence, Machine Learning, Data Science, Automation, Intelligent Systems, and building technology that solves real-world problems.
+
+🤝 Let’s Connect
+
+I’m open to collaborating on projects, learning opportunities, and entry-level opportunities in AI and Machine Learning.
