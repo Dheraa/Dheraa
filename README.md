@@ -23,7 +23,7 @@ Building practical machine-learning solutions through data, experimentation and 
 
 ---
 
-## `$ whoami`
+## `ABOUT ME`
 
 I'm **Victor**, also known as **DerexDcoder**.
 
@@ -35,7 +35,7 @@ My goal is to grow into an engineer who contributes to building reliable, useful
 
 ---
 
-## `$ technical_skills`
+## `TECH STACK`
 
 **Programming and data**
 
@@ -60,7 +60,7 @@ My goal is to grow into an engineer who contributes to building reliable, useful
 
 ---
 
-## `$ featured_projects`
+## `FEATURED PROJECTS`
 
 ### 01. Laptop Price Prediction
 
@@ -80,7 +80,7 @@ A machine-learning classification project focused on predicting loan repayment o
 
 ---
 
-## `$ currently_learning`
+## `CURRENTLY LEARNING`
 
 - Machine learning workflows
 - Data preprocessing and feature engineering
@@ -89,13 +89,13 @@ A machine-learning classification project focused on predicting loan repayment o
 - Model deployment and APIs
 - Writing cleaner and more maintainable Python code
 
-## `$ areas_of_interest`
+## `AREAS OF INTEREST`
 
 Artificial Intelligence · Machine Learning Engineering · Data Science · Predictive Analytics · Intelligent Systems · AI-powered Products
 
 ---
 
-## `$ github_statistics`
+## `GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Artificial Intelligence · Machine Learning Engineering · Data Science · Predi
 
 ---
 
-## `$ connect`
+## `LET'S CONNECT'
 
 I'm open to learning opportunities, collaboration, practical projects and conversations with people building in AI and technology.
 
